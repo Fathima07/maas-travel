@@ -194,8 +194,11 @@ body{
 }
 .list-group{
 	margin-top: 40px;
-	
+	 
 }
 
+@media screen {
+	
+}
 	
 
